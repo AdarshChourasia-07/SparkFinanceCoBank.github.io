@@ -2,7 +2,7 @@
 SPARK FINANCE COOPERATIVE BANK is the project I have devloped under Sparks Foundation Web Development Internship 
 
 Task Given by The Spark Foundation:-
-Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
+Basic Banking System website. A web application used to transfer virtual money between multiple users and also record the banking transactions/ activities.
 The website has the following specification -
 
 A dummy data for upto 10 customers
